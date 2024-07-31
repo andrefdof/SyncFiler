@@ -1,7 +1,7 @@
 ﻿using Serilog;
 using SyncFiler.Classes;
 
-namespace SyncFiler.Helppers
+namespace SyncFiler.Helpers
 {
     public class LoggerHelper() 
     {

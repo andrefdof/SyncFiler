@@ -3,7 +3,7 @@ using Serilog;
 using SyncFiler.Interfaces;
 using SyncFiler.Services;
 
-namespace SyncFiler.Helppers
+namespace SyncFiler.Helpers
 {
     public static class ServiceProviderFactory
     {

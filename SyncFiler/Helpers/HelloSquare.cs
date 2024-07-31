@@ -1,4 +1,4 @@
-﻿namespace SyncFiler.Helppers
+﻿namespace SyncFiler.Helpers
 {
     public static class HelloSquare
     {

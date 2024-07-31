@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using SyncFiler.Classes;
-using SyncFiler.Helppers;
+using SyncFiler.Helpers;
 
 namespace SyncFiler.Services
 {

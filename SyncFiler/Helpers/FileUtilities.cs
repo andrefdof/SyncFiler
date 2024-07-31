@@ -1,7 +1,7 @@
 ﻿using SyncFiler.Interfaces;
 using System.Security.Cryptography;
 
-namespace SyncFiler.Helppers
+namespace SyncFiler.Helpers
 {
     public class FileUtilities : IFileUtilities
     {

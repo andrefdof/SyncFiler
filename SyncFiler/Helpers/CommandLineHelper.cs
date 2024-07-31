@@ -1,7 +1,7 @@
 ﻿using CommandLine;
 using SyncFiler.Classes;
 
-namespace SyncFiler.Helppers
+namespace SyncFiler.Helpers
 {
     public class CommandLineHelper
     {
