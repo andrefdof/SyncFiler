@@ -4,7 +4,7 @@ This was developed as part of an interview requirement for a job application.
 
 It's a .net console app to sync files.
 
-[System Description and Requirements](/Veeam_tesk_task_С_.pdf)
+[System Description and Requirements](/Requirements.md)
 
 In order to run the app (SyncFiler.exe) you can start it with the following args: 
 --a path to source directory
