@@ -1,8 +1,6 @@
 # SyncFiler 🥇
 
-This was developed as part of an interview requirement for a job application.
-
-It's a .net console app to sync files.
+It's a .net console app to sync files periodically.
 
 [System Description and Requirements](/Requirements.md)
 
